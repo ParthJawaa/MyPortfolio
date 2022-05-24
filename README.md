@@ -1,2 +1,2 @@
 # MyPortfolio
-Re-making my portfolio (continuation of fewproject2 without sag)
+Re-making my portfolio (continuation of fewproject2 without ssg)
